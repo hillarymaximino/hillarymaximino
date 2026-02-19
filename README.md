@@ -1,1 +1,1 @@
-![Banner](frame1.png)
+![Banner](./photos/frame1.png)
