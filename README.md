@@ -13,4 +13,5 @@
   <a href="https://lattes.cnpq.br/7932683371359220" target="_blank">
     <img src="./Photos/botton3-lattes.png" width="150">
   </a>
+  <br><br> <br><br> <img src="./Photos/background2.png" width="80%">
 </p>
